@@ -23,7 +23,7 @@ This section highlights my personal and professional interests.
 This sections provides the list of the programming languages that I can work with.
 
 # Projects:
-This section provides a list of selected projects that I have worked on. Each project includes a title, description, key technologies used.
+This section provides a list of selected projects that I have worked on. Each project includes a title, description, key technologies used, and a link to view it live.
 
 # Contact:
 An easy-to-use contact form and social media links that enable visitors to reach out to me for job opportunities or inquiries.
