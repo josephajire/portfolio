@@ -20,13 +20,13 @@ This section outlines my academic history, including institutions attended, degr
 This section highlights my personal and professional interests.
 
 # Skills:
-This sections provides the list of the programming languages that I can work with.
+This section provides the list of the programming languages that I can work with.
 
 # Projects:
 This section provides a list of selected projects that I have worked on. Each project includes a title, description, key technologies used, and a link to view it live.
 
 # Contact:
-An easy-to-use contact form and social media links that enable visitors to reach out to me for job opportunities or inquiries.
+This section contains an easy-to-use contact form and social media links that enable visitors to reach out to me for job opportunities or inquiries.
 
 Feel free to reach out via the contact section of the website.
 Thank you.
